@@ -1,4 +1,3 @@
--- 09th July 
 -- (Commenting using --)How to display the database
 show databases; -- To run the query: ctrl + enter
 
@@ -35,7 +34,6 @@ insert into student values
 (1, 'Swarali', 'Pune', 22),
 (2, 'Anuj', 'Mumbai', 23);
 
--- 10th July
 insert into student values
 (3, 'Diya', 'Mumbai', 9),
 (4, 'Siya', 'Pune', 9),
