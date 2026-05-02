@@ -1,0 +1,4 @@
+SELECT 
+	ISNULL(100), 
+    ISNULL(' '), 
+    ISNULL(NULL)
